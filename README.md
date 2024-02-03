@@ -17,7 +17,8 @@
 ## 4. XML Error Detection:Gaming thrills shouldn't be marred by XML errors. Our tool includes a built-in XML error detection system that rigorously scans your vehicles.meta and handling.meta files, catching any errors before they disrupt your gameplay.
 
 ## 5. Vehicle Class Error Detection:Beyond just XML errors, our tool goes the extra mile by identifying errors related to vehicle class assignments. Ensure that each vehicle is categorized or spelt correctly.
-Experience the power of the FiveM Automatic Handling Editor and take your server to the next level. Say goodbye to the hassles of manual handling adjustments for hundreds or thousands of vehicles.
+
+## Experience the power of the FiveM Automatic Handling Editor and take your server to the next level. Say goodbye to the hassles of manual handling adjustments for hundreds or thousands of vehicles.
 
 ## 📑 To use the tool:
 - Open handling_configs.json
